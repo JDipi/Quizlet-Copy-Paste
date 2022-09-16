@@ -1,7 +1,7 @@
 # Quizlet-Copy-Paste
 Allows easily copying and pasting terms and definitions from study sets on quizlet.com
 
-By _John#1228
+By _John#1218
 
 ___
 ## [How to install tampermonkey](https://www.youtube.com/watch?v=kjeERqWY04s)
